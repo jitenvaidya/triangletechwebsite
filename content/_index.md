@@ -9,7 +9,7 @@ banner:
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Something You Need To Know!!!!!!!
   features:
   - name: "Clean Code"
     icon: "/images/code.svg"
