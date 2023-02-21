@@ -4,7 +4,7 @@ banner:
   content: Leading provider of edutech product in westen India<br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
   image: /images/banner-art.svg
   button:
-    label: "Contact Us"
+    label: "Contact Us!!!!!!"
     link: "/contact"
 
 # feature
@@ -27,6 +27,9 @@ feature:
     icon: "/images/speedometer.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "Cloud Support"
+    icon: "/images/cloud.svg"
+    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+ - name: "Cloud Support2333"
     icon: "/images/cloud.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
