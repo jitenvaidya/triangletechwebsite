@@ -1,15 +1,15 @@
 ---
 banner:
-  title: "Welcome to Triangletech"
-  content: Leading provider of edutech product in westen India<br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Let us solve your critical website development challenges
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
   image: /images/banner-art.svg
   button:
-    label: "Contact Us!!!!!!"
+    label: "Contact Us"
     link: "/contact"
 
 # feature
 feature: 
-  title: "Something You know"
+  title: Something You Need To Know
   features:
   - name: "Clean Code"
     icon: "/images/code.svg"
@@ -27,9 +27,6 @@ feature:
     icon: "/images/speedometer.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
- - name: "Cloud Support2333"
     icon: "/images/cloud.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
