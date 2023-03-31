@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-layout: faq
+layout: product
 draft: false
 faqs:
 - title: Will updates also be free?
