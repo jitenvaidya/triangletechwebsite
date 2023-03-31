@@ -1,7 +1,7 @@
 ---
 banner:
   title: Welcome to TriangleTech!!
-  content: TriangleTech, we are a team of technology enthusiasts who are passionate about leveraging the power of disruptive technologies to help businesses evolve in the digital age.
+  content: At TriangleTech, we are a team of technology enthusiasts who are passionate about leveraging the power of disruptive technologies to help businesses evolve in the digital age.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
