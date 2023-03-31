@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Welcome to Triangletech !!
+  title: "Welcome to Triangletech"
   content: Leading provider of edutech product in westen India<br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
   image: /images/banner-art.svg
   button:
@@ -9,7 +9,7 @@ banner:
 
 # feature
 feature: 
-  title: Something You know!!!!!!!!!!!!!
+  title: "Something You know"
   features:
   - name: "Clean Code"
     icon: "/images/code.svg"
