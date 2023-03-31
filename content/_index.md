@@ -1,7 +1,7 @@
 ---
 banner:
-  title: website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Welcome to TriangleTech!!
+  content: TriangleTech, we are a team of technology enthusiasts who are passionate about leveraging the power of disruptive technologies to help businesses evolve in the digital age.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
