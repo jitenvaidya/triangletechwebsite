@@ -49,6 +49,9 @@ const Home = ({ frontmatter }) => {
         <div className="container">
           <div className="text-center">
             <h2>{markdownify(feature.title)}</h2>
+           
+            <p>{markdownify(feature.about)}</p>
+            
           </div>
           <div className="mt-8 grid gap-x-8 gap-y-6 sm:grid-cols-2 lg:grid-cols-3">
             {feature.features.map((item, i) => (
@@ -81,7 +84,7 @@ const Home = ({ frontmatter }) => {
         return (
           <section
             key={`service-${index}`}
-            className={`section ${isOdd && "bg-theme-light"}`}
+            className={`section ${isOdd && ""}`}
           >
             <div className="container">
               <div className="items-center gap-8 md:grid md:grid-cols-2">
@@ -114,6 +117,8 @@ const Home = ({ frontmatter }) => {
                   }`}
                 >
                   <h2 className="font-bold leading-[40px]">{service?.title}</h2>
+                 
+                  <h3 className="font-bold leading-[25px]">{service?.subtitle}</h3>
                   <p className="mt-4 mb-2">{service?.content}</p>
                   {service.button.enable && (
                     <Link
