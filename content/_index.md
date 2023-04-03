@@ -9,9 +9,10 @@ banner:
 
 # feature
 feature: 
-  title: Innovative Thinkers
+  title: Who We Are!
 
   about: At TriangleTech, we understand the importance of building upon a business's legacy while also innovating for the future. Our team of innovative thinkers combines deep industry insight with cutting-edge technologies to help our clients create a lasting impact and leave a positive legacy in their industry and community.
+
 
   features:
  
@@ -27,7 +28,7 @@ feature:
 
 # services
 services:
-  - title: "AboutUS"
+  - title: "TechSIS 3.o"
     subtitle: "It is the most advanced digital marketing and it company."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
@@ -40,7 +41,7 @@ services:
       link: /contact
 
   
-  - title: "AboutUS11"
+  - title: "noticebox"
     subtitle: "It is a privately owned Information and cyber security company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 

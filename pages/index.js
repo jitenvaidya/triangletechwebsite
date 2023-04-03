@@ -118,7 +118,7 @@ const Home = ({ frontmatter }) => {
                 >
                   <h2 className="font-bold leading-[40px]">{service?.title}</h2>
                  
-                  <h3 className="font-bold leading-[40px]">{service?.subtitle}</h3>
+                  <h2 className="font-bold leading-[25px]">{service?.subtitle}</h2>
                   <p className="mt-4 mb-2">{service?.content}</p>
                   {service.button.enable && (
                     <Link
