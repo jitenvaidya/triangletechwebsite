@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Welcome to TriangleTech!!
+  content: At TriangleTech, we are a team of technology enthusiasts who are passionate about leveraging the power of disruptive technologies to help businesses evolve in the digital age.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
@@ -9,30 +9,27 @@ banner:
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Who We Are!
+
+  about: At TriangleTech, we understand the importance of building upon a business's legacy while also innovating for the future. Our team of innovative thinkers combines deep industry insight with cutting-edge technologies to help our clients create a lasting impact and leave a positive legacy in their industry and community.
+
+
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+ 
   - name: "Value for Money"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We provide cost-effective solutions that deliver maximum value to your business, helping you to achieve your goals without breaking the bank."
   - name: "Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We pride ourselves on our fast response times, ensuring that you get the support and assistance as quickly as possible."
   - name: "Cloud Support"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We offer seamless integration with cloud infrastructure to ensure that your software is scalable, secure, and reliable."
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
+  - title: "TechSIS 3.o"
+    subtitle: "It is the most advanced digital marketing and it company."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -43,7 +40,9 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
+  
+  - title: "noticebox"
+    subtitle: "It is a privately owned Information and cyber security company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 
       - "/images/service-slide-1.png"
@@ -52,7 +51,8 @@ services:
       label: Check it out
       link: /contact
   
-  - title: "It’s a team of experienced and skilled people with distributions"
+  - title: "AboutUS222"
+    subtitle: "It’s a team of experienced and skilled people with distributions"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -63,7 +63,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title: "A company standing different from others"
+  - title: "AboutUS33"
+    subtitle: "A company standing different from others"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -78,7 +79,7 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   image: "/images/banner.svg"
-  description: ""
+  description: "Some text!!!! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
 
 # call_to_action
 call_to_action:
@@ -87,6 +88,6 @@ call_to_action:
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Whatsapp us"
+    link: "https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
 ---
