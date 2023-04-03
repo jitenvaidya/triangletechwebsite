@@ -23,18 +23,18 @@ feature:
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "Value for Money"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We provide cost-effective solutions that deliver maximum value to your business, helping you to achieve your goals without breaking the bank."
   - name: "Faster Response"
     icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We pride ourselves on our fast response times, ensuring that you get the support and assistance as quickly as possible."
   - name: "Cloud Support"
     icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We offer seamless integration with cloud infrastructure to ensure that your software is scalable, secure, and reliable."
 
 # services
 services:
-  - title1: "AboutUS"
-    title: "It is the most advanced digital marketing and it company."
+  - title: "AboutUS"
+    subtitle: "It is the most advanced digital marketing and it company."
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -46,8 +46,8 @@ services:
       link: /contact
 
   
-  - title1: "AboutUS11"
-    title: "It is a privately owned Information and cyber security company"
+  - title: "AboutUS11"
+    subtitle: "It is a privately owned Information and cyber security company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 
       - "/images/service-slide-1.png"
@@ -56,8 +56,8 @@ services:
       label: Check it out
       link: /contact
   
-  - title1: "AboutUS222"
-    title: "It’s a team of experienced and skilled people with distributions"
+  - title: "AboutUS222"
+    subtitle: "It’s a team of experienced and skilled people with distributions"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
@@ -68,8 +68,8 @@ services:
       label: Check it out
       link: /contact
 
-  - title1: "AboutUS33"
-    title: "A company standing different from others"
+  - title: "AboutUS33"
+    subtitle: "A company standing different from others"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images:
       - "/images/service-slide-1.png"
