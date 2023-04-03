@@ -10,6 +10,7 @@ banner:
 # feature
 feature: 
   title: Something You Need To Know
+  about: this is about us info we can all multipal line in this section.
   features:
   - name: "Clean Code"
     icon: "/images/code.svg"
