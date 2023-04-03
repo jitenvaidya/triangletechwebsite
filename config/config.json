@@ -18,13 +18,13 @@
   "nav_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "/https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
+    "link": "https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "<b>TriangleTech </b> <br>    Address: Office No.: 503, <br>  Vihav Suprimus Business Hub,<br> Gotri Road, Vadodara, Gujarat",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 
