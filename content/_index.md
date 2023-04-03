@@ -11,7 +11,7 @@ banner:
 feature: 
   title: Who We Are!
 
-  about: At TriangleTech, we understand the importance of building upon a business's legacy while also innovating for the future. Our team of innovative thinkers combines deep industry insight with cutting-edge technologies to help our clients create a lasting impact and leave a positive legacy in their industry and community.
+  about: TriangleTech, we understand that every business has unique requirements and goals. That's why we work closely with our clients to transform their vision into a reality, taking into account every detail and requirement. Our customized solutions are designed to help your business thrive and succeed in today's fast-paced digital world. We pride ourselves on going the extra mile to deliver the best possible results, taking on big challenges and seeing them through to completion. When you partner with us, you can trust that we'll be with you every step of the way, dedicated to your success.
 
 
   features:
