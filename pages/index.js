@@ -113,7 +113,9 @@ const Home = ({ frontmatter }) => {
                     !isOdd && "md:order-1"
                   }`}
                 >
-                  <h2 className="font-bold leading-[40px]">{service?.title}</h2>
+                  <h2 className="font-bold leading-[40px]">{service?.title1}</h2>
+                 
+                  <h2 className="font-bold leading-[30px]">{service?.title}</h2>
                   <p className="mt-4 mb-2">{service?.content}</p>
                   {service.button.enable && (
                     <Link
