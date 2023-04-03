@@ -11,7 +11,7 @@ banner:
 feature: 
   title: Who We Are!
 
-  about: TriangleTech, we understand that every business has unique requirements and goals. That's why we work closely with our clients to transform their vision into a reality, taking into account every detail and requirement. Our customized solutions are designed to help your business thrive and succeed in today's fast-paced digital world. We pride ourselves on going the extra mile to deliver the best possible results, taking on big challenges and seeing them through to completion. When you partner with us, you can trust that we'll be with you every step of the way, dedicated to your success.
+  about: At TriangleTech, we understand that every business has unique requirements and goals. That's why we work closely with our clients to transform their vision into a reality, taking into account every detail and requirement. Our customized solutions are designed to help your business thrive and succeed in today's fast-paced digital world. We pride ourselves on going the extra mile to deliver the best possible results, taking on big challenges and seeing them through to completion. When you partner with us, you can trust that we'll be with you every step of the way, dedicated to your success.
 
 
   features:
