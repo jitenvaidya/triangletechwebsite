@@ -9,8 +9,10 @@ banner:
 
 # feature
 feature: 
-  title: Something You Need To Know
-  about: this is about us info we can all multipal line in this section.
+  title: Innovative Thinkers
+
+  about: At TriangleTech, we understand the importance of building upon a business's legacy while also innovating for the future. Our team of innovative thinkers combines deep industry insight with cutting-edge technologies to help our clients create a lasting impact and leave a positive legacy in their industry and community.
+
   features:
  
   - name: "Value for Money"
