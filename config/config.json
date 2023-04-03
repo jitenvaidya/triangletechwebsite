@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "TriangleTech Simplify Your Education Institute Management",
+    "title": "TriangleTech: Simplify Your Education Institute Management",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "TriangleTech"
+    "logo_text": "Bigspring Light"
   },
 
   "settings": {
@@ -17,20 +17,15 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Connected",
-    "link": "https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
+    "label": "Get Started",
+    "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "<b>TriangleTech</b><br>
-
-    Address: Office No.: 503,  Vihav Suprimus Business Hub,<br> Gotri Road, Vadodara, Gujarat<br>
-    e-Mail: info@triangletech.in<br>
-           +91 (0)265 796 86 56<br>
-           +91 94280 72020",
-    "copyright": "Designed and Developed By [triangletech](https://triangletech.in/)"
+    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 
   "metadata": {
