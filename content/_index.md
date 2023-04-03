@@ -15,7 +15,7 @@ feature:
   - name: "Clean Code"
     icon: "/images/code.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+  - name: ""
     icon: "/images/oop.svg"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
   - name: "24h Service"
