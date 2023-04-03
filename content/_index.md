@@ -12,15 +12,7 @@ feature:
   title: Something You Need To Know
   about: this is about us info we can all multipal line in this section.
   features:
-  - name: "Clean Code"
-    icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: ""
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+ 
   - name: "Value for Money"
     icon: "/images/love.svg"
     content: "We provide cost-effective solutions that deliver maximum value to your business, helping you to achieve your goals without breaking the bank."
