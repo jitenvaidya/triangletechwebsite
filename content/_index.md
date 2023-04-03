@@ -84,7 +84,7 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   image: "/images/banner.svg"
-  description: ""
+  description: "Some text!!!! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
 
 # call_to_action
 call_to_action:
@@ -93,6 +93,6 @@ call_to_action:
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Whatsapp us"
+    link: "https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
 ---
