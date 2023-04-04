@@ -34,16 +34,11 @@ services:
     
     <br>
     <b>
-    ##### Unordered List
+    Unordered List
     </b>
-    <ul>
-    <li> List item </li>
-    <li> List item </li>
-    <li> List item </li>
-    <li> List item </li>
-    </ul>
-    <br>
     
+    <br>
+
     accurate and valuable reports, as well as seamless communication through SMS and a noticebox app. With 12+ years of software usage in different colleges, excellent support, and software customization, Techsis 3.0 is an efficient solution that improves the overall efficiency of educational institutions."
     images:
       - "/images/service-slide-1.png"
