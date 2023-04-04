@@ -150,7 +150,7 @@ const Home = ({ frontmatter }) => {
           {markdownify(
             workflow.title,
             "h2",
-            "mx-auto max-w-[400px] font-bold leading-[44px]"
+            "mx-auto max-w-[400px] font-bold leading-[44px] text-dark"
           )}
           {markdownify(workflow.description, "p", "mt-3")}
         </div>
