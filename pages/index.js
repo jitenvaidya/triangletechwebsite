@@ -115,7 +115,7 @@ const Home = ({ frontmatter }) => {
                     !isOdd && "md:order-1"
                   }`}
                 >
-                  <h2 className="font-bold leading-[40px]">{service?.title}</h2>
+                  <h2 className="font-bold leading-[40px] text-sky-700">{service?.title}</h2>
                   <h3 className="font-bold leading-[25px]">{service?.subtitle}</h3>
                   
                   <p className="mt-4 mb-2">{service?.content}</p>
@@ -150,7 +150,7 @@ const Home = ({ frontmatter }) => {
           {markdownify(
             workflow.title,
             "h2",
-            "mx-auto max-w-[400px] font-bold leading-[44px] text-dark"
+            "mx-auto max-w-[400px] font-bold leading-[44px]"
           )}
           {markdownify(workflow.description, "p", "mt-3")}
         </div>
