@@ -40,7 +40,7 @@ services:
     button:
       enable: true
       label: Read more
-      link: /contact
+      link: /products/product-6
 
   
   - title: "noticebox"
@@ -53,7 +53,7 @@ services:
     button:
       enable: true
       label: Learn more
-      link: /contact
+      link: /products/product-5
   
   
 # workflow
