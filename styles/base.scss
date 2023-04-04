@@ -6,13 +6,16 @@ body {
   @apply bg-body font-primary font-normal leading-relaxed text-text;
 }
 
-h1,
+h1 {
+  @apply font-primary font-bold leading-tight text-sky-600;
+}
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  @apply font-primary font-bold leading-tight text-blue-600;
+  @apply font-primary font-bold leading-tight text-dark;
 }
 
 h1,
