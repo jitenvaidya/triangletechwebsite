@@ -9,13 +9,10 @@
       "url": "/products"
     },
     {
-      "name": "Product",
-      "url": "/product"
-    },
-    {
       "name": "Pricing",
       "url": "/pricing"
     },
+    
     {
       "name": "Contact",
       "url": "/contact"
@@ -43,12 +40,12 @@
       "name": "Product",
       "menu": [
         {
-          "text": "Features",
-          "url": "#"
+          "text": "Techsis 3.0",
+          "url": "/products/product-1"
         },
         {
-          "text": "Platform",
-          "url": "#"
+          "text": "noticebox",
+          "url": "/products/product-2"
         },
         {
           "text": "Pricing",
