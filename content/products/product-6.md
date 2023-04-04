@@ -54,7 +54,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 
 ---
 
----
 
 ##### Images
 
