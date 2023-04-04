@@ -39,20 +39,20 @@ services:
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Read more
       link: /contact
 
   
   - title: "noticebox"
-    subtitle: "noticebox---------------------"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+    subtitle: "Empowering education with digital communication."
+    content: "Noticebox is a communication platform that connects teachers, students, and parents in educational institutions such as schools and colleges. It provides a paperless way for schools to share announcements, important dates, reminders, and learning resources with students and their families. Noticebox allows for easy sharing of documents, assignments, circulars, and notices in the form of PDFs and images, and uses the latest cloud technology to store and secure data. With Noticebox, schools can keep everyone informed and up-to-date, ensuring that no important dates or activities are missed."
     images: 
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Learn more
       link: /contact
   
   
