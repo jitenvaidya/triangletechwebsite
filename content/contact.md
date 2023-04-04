@@ -4,9 +4,9 @@ layout: "contact"
 draft: false
 info: 
   title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  description: You should contact us if you want to streamline the management of student-related data in your educational institution. Techsis 3.0 offers advanced features, excellent support, and seamless communication, making it an efficient solution that can save time, reduce errors, and improve the overall quality of managment.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: +91 (0)265 796 86 56"
+    - "Mail: [info@triangletech.in](mailto:info@triangletech.in)"
+    - "Address: 503, Vihav Suprimus, Gotri Road, Vadodara, Gujarat"
 ---
