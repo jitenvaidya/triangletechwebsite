@@ -31,6 +31,13 @@ services:
   - title: "TechSIS 3.o"
     subtitle: "Simplify Your Student Management"
     content: "<b>Techsis 3.0</b> is a powerful and innovative Student Information System designed to streamline the management of student-related data. With features such as complete student profiles, registration, admission, fee receipt, certificate generation, and financial aid provision, Techsis 3.0 simplifies the process of student enrollment, making it quick, systematic, and free from errors. It also provides advanced analytics tools for 
+        <dl>
+      <dt>Definition list</dt>
+      <dd>Is something people use sometimes.</dd>
+
+      <dt>Markdown in HTML</dt>
+      <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+    </dl>
     accurate and valuable reports, as well as seamless communication through SMS and a noticebox app. With 12+ years of software usage in different colleges, excellent support, and software customization, Techsis 3.0 is an efficient solution that improves the overall efficiency of educational institutions."
     
     images:
@@ -46,6 +53,8 @@ services:
   - title: "noticebox"
     subtitle: "Empowering education with digital communication."
     content: "Noticebox is a communication platform that connects teachers, students, and parents in educational institutions such as schools and colleges. It provides a paperless way for schools to share announcements, important dates, reminders, and learning resources with students and their families. Noticebox allows for easy sharing of documents, assignments, circulars, and notices in the form of PDFs and images, and uses the latest cloud technology to store and secure data. With Noticebox, schools can keep everyone informed and up-to-date, ensuring that no important dates or activities are missed."
+
+
     images: 
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
