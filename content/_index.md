@@ -34,12 +34,12 @@ services:
     accurate and valuable reports, as well as seamless communication through SMS and a noticebox app. With 12+ years of software usage in different colleges, excellent support, and software customization, Techsis 3.0 is an efficient solution that improves the overall efficiency of educational institutions."
 
     subtitle1: "Best For Professionals"
-    features:
+    features: "
     - Express Service
     - Customs Clearance
     - Time-Critical Services
     - Cloud Service
-    - Best Dashboard
+    - Best Dashboard "
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
