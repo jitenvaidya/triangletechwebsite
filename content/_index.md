@@ -30,16 +30,9 @@ feature:
 services:
   - title: "TechSIS 3.o"
     subtitle: "Simplify Your Student Management"
-    content: "Techsis 3.0 is a powerful and innovative Student Information System designed to streamline the management of student-related data. With features such as complete student profiles, registration, admission, fee receipt, certificate generation, and financial aid provision, Techsis 3.0 simplifies the process of student enrollment, making it quick, systematic, and free from errors. It also provides advanced analytics tools for 
+    content: "<b>Techsis 3.0</b> is a powerful and innovative Student Information System designed to streamline the management of student-related data. With features such as complete student profiles, registration, admission, fee receipt, certificate generation, and financial aid provision, Techsis 3.0 simplifies the process of student enrollment, making it quick, systematic, and free from errors. It also provides advanced analytics tools for 
     accurate and valuable reports, as well as seamless communication through SMS and a noticebox app. With 12+ years of software usage in different colleges, excellent support, and software customization, Techsis 3.0 is an efficient solution that improves the overall efficiency of educational institutions."
-
-    subtitle1: "Best For Professionals"
-    features: "
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-    - Cloud Service
-    - Best Dashboard "
+    
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"

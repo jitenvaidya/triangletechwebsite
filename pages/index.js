@@ -120,16 +120,7 @@ const Home = ({ frontmatter }) => {
                   
                   <p className="mt-4 mb-2">{service?.content}</p>
 
-                  <h5 className="mt-2 font-normal text-text">
-                    {service?.subtitle1}
-                  </h5>
-                  <ul className="mt-5">
-                    {service?.features.map((feature, index) => (
-                      <li className="mb-[10px] leading-5" key={index}>
-                        {feature}
-                      </li>
-                    ))}
-                  </ul>
+                 
 
                   {service.button.enable && (
                     <Link
