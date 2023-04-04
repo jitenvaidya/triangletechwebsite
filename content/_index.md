@@ -42,7 +42,7 @@ services:
 
   
   - title: "noticebox"
-    subtitle: "It is a privately owned Information and cyber security company"
+    subtitle: "noticebox---------------------"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
     images: 
       - "/images/service-slide-1.png"
