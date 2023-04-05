@@ -15,7 +15,7 @@ const Posts = ({ posts }) => {
                 className="h-auto w-full rounded-lg"
                 src={posts[0].frontmatter.image}
                 alt={posts[0].frontmatter.title}
-                alt1={posts[0].frontmatter.subtitle}
+               
                 width={540}
                 height={227}
                 priority={true}
@@ -59,6 +59,7 @@ const Posts = ({ posts }) => {
               className="rounded-lg"
               src={post.frontmatter.image}
               alt={post.frontmatter.title}
+              alt1={post.frontmatter.subtitle}
               width={i === 0 ? "925" : "445"}
               height={i === 0 ? "475" : "230"}
             />
