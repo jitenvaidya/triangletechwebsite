@@ -1,20 +1,9 @@
 ---
-title: Pricing
+title: Pricing Plan
 layout: pricing
 draft: false
-plans:
-- title: Basic Plan
-  subtitle: Best For Small Individuals
-  price: 49
-  type: month
-  features:
-    - Express Service
-    - Customs Clearance
-    - Time-Critical Services
-  button:
-    label: Get started for free
-    link: "/contact"
 
+plans:
 - title: Professional Plan
   subtitle: Best For Professionals
   price: 69
