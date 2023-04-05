@@ -39,7 +39,7 @@ services:
     button:
       enable: true
       label: Read more
-      link: /products/product-6
+      link: /products/product-1
 
   
   - title: "noticebox"
@@ -54,7 +54,7 @@ services:
     button:
       enable: true
       label: Learn more
-      link: /products/product-5
+      link: /products/product-2
   
   
 # workflow
