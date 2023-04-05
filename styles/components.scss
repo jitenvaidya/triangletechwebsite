@@ -47,6 +47,11 @@
       @apply relative pl-5 before:absolute before:left-0 before:top-[10px] before:h-2 before:w-2 before:rounded-full before:bg-primary before:content-[''];
     }
   }
+
+  a{
+    @apply font-semibold  underline text-dark;
+
+  }
 }
 
 //feature card
