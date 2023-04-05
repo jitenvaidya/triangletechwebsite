@@ -13,7 +13,7 @@ Techsis 3.0 is a cutting-edge software product designed to streamline the manage
 ---
 
 
-##### Blockquote
+##### 
 
 > Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them." - Paul Hawken
 

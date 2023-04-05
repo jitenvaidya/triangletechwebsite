@@ -15,6 +15,7 @@ const Posts = ({ posts }) => {
                 className="h-auto w-full rounded-lg"
                 src={posts[0].frontmatter.image}
                 alt={posts[0].frontmatter.title}
+                alt1={posts[0].frontmatter.subtitle}
                 width={540}
                 height={227}
                 priority={true}
