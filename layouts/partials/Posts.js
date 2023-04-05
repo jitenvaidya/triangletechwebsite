@@ -31,11 +31,11 @@ const Posts = ({ posts }) => {
                 {posts[0].frontmatter.title}
               </Link>
             </h2>
-            <h2 className="h3 mb-2 mt-4">
+            <h4>
              
                 {posts[0].frontmatter.subtitle}
         
-            </h2>
+            </h4>
             <p className="text-text">
               {plainify(
                 posts[0].content?.slice(0, Number(summary_length)),
