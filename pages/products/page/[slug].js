@@ -22,7 +22,7 @@ const BlogPagination = ({ postIndex, posts, currentPage, pagination }) => {
       <section className="section">
         <div className="container">
           {markdownify(title, "h1", "h1 text-center font-normal text-[56px]")}
-          {markdownify(subtitle, "h3", "h3 mb-6 mt-6 text-left")}
+          {markdownify(subtitle, "h4", "h4 mb-6 mt-6 text-left")}
           <Posts posts={currentPosts} />
           <Pagination
             section={blog_folder}
