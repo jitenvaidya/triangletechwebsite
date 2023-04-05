@@ -4,6 +4,35 @@ layout: pricing
 draft: false
 
 plans:
+- title: 
+  subtitle: 
+  price: 
+  type: 
+  features:
+   button:
+    label: 
+    link: 
+
+- title: 
+  subtitle: 
+  price: 
+  type:
+  recommended: 
+  features:
+   
+  button:
+    label: 
+    link: 
+
+- title: 
+  subtitle:
+  price: 
+  type: 
+  features:
+    
+  button:
+    label: 
+    link: 
 
 call_to_action:
   title: Need help to understand our pricing plan?
