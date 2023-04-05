@@ -8,5 +8,5 @@ info:
   contacts: 
     - "phone:  [+91 (0)265 796 86 56](https://wa.me/912657968656)"
     - "Mail: [info@triangletech.in](mailto:info@triangletech.in)"
-    - "Address: 503, Vihav Suprimus, Gotri Road, Vadodara, Gujarat"
+    - "Address: 503, Vihav Suprimus, Gotri Road, Vadodara, Gujarat."
 ---
