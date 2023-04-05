@@ -7,7 +7,7 @@ date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
-#### Empowering education with digital communication.
+
 
 Noticebox is a digital communication platform that connects teachers, students, and parents, designed to bridge the communication gap between them. It provides a centralized platform for educational institutions to share important information related to academic activities. The platform is designed to be user-friendly and accessible, making it easy for teachers, students, and parents to stay updated with daily activities and important events.
 
