@@ -15,7 +15,7 @@ plans:
     label: Get started for free
     link: "/contact"
 
-- title: Professional Plan
+- title: Professional Plan111111
   subtitle: Best For Professionals
   price: 69
   type: month
