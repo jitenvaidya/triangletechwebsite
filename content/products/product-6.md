@@ -58,6 +58,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime 
 ##### Images
 
 ![service](/images/service-slide-1.png "service")
-
+![service](/images/service-slide-1.png "service")
+![service](/images/service-slide-1.png "service")
 ---
 
