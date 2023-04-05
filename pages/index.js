@@ -88,7 +88,7 @@ const Home = ({ frontmatter }) => {
             <div className="container">
               <div className="items-center gap-8 md:grid md:grid-cols-2">
                 {/* Carousel */}
-                <div className={`service-carousel ${!isOdd && "md:order-2"}`}>
+                <div className={`service-carousel ${!isOdd && "md:order-2 sm:order-2  "}`}>
                   <Swiper
                     modules={[Autoplay, Pagination]}
                     pagination={
