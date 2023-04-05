@@ -119,7 +119,7 @@ const Home = ({ frontmatter }) => {
                   )}
                 </div>
                     {/* Carousel */}
-                    <div className={`service-carousel ${!isOdd && "md:order-2"}`}>
+                    <div className={`service-carousel ${!iseven && "md:order-1"}`}>
                   <Swiper
                     modules={[Autoplay, Pagination]}
                     pagination={
