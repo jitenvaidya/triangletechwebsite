@@ -1,7 +1,7 @@
 ---
 title: Pricing
 layout: pricing
-draft: true
+draft: false
 plans:
 - title: Basic Plan
   subtitle: Best For Small Individuals
