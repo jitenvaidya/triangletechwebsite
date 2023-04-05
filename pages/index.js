@@ -87,27 +87,7 @@ const Home = ({ frontmatter }) => {
           >
             <div className="container">
               <div className="items-center gap-8 md:grid md:grid-cols-2">
-                {/* Carousel */}
-                <div className={`service-carousel ${!isOdd && "md:order-2"}`}>
-                  <Swiper
-                    modules={[Autoplay, Pagination]}
-                    pagination={
-                      service.images.length > 1 ? { clickable: true } : false
-                    }
-                    autoplay={{
-                      delay: 5000,
-                      disableOnInteraction: false,
-                    }}
-                    init={service?.images > 1 ? false : true}
-                  >
-                    {/* Slides */}
-                    {service?.images.map((slide, index) => (
-                      <SwiperSlide key={index}>
-                        <Image src={slide} alt="" width={600} height={500} />
-                      </SwiperSlide>
-                    ))}
-                  </Swiper>
-                </div>
+                
 
                 {/* Content */}
                 <div
@@ -116,7 +96,7 @@ const Home = ({ frontmatter }) => {
                   }`}
                 >
                   <h2 className="font-bold leading-[40px] text-sky-700">{service?.title}</h2>
-                  <h3 className="font-bold leading-[25px]">{service?.subtitle}</h3>
+                  <h3 className="font-bold leading-[30px]">{service?.subtitle}</h3>
                   
                   <p className="mt-4 mb-2">{service?.content}</p>
 
@@ -138,6 +118,29 @@ const Home = ({ frontmatter }) => {
                     </Link>
                   )}
                 </div>
+                    {/* Carousel */}
+                    <div className={`service-carousel ${!isOdd && "md:order-2"}`}>
+                  <Swiper
+                    modules={[Autoplay, Pagination]}
+                    pagination={
+                      service.images.length > 1 ? { clickable: true } : false
+                    }
+                    autoplay={{
+                      delay: 5000,
+                      disableOnInteraction: false,
+                    }}
+                    init={service?.images > 1 ? false : true}
+                  >
+                    {/* Slides */}
+                    {service?.images.map((slide, index) => (
+                      <SwiperSlide key={index}>
+                        <Image src={slide} alt="" width={600} height={500} />
+                      </SwiperSlide>
+                    ))}
+                  </Swiper>
+                </div>
+
+
               </div>
             </div>
           </section>
