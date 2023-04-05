@@ -72,6 +72,9 @@ const Posts = ({ posts }) => {
               {post.frontmatter.title}
             </Link>
           </h2>
+          <h4>
+          {post.frontmatter.subtitle}
+          </h4>
           <p className="text-text">{post.frontmatter.desc}</p>
           <Link
             className="btn btn-primary mt-4"
