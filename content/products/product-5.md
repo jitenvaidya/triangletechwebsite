@@ -7,12 +7,13 @@ date: 2022-08-04T05:00:00Z
 draft: false
 ---
 
+#### Empowering education with digital communication.
 
 Noticebox is a digital communication platform that connects teachers, students, and parents, designed to bridge the communication gap between them. It provides a centralized platform for educational institutions to share important information related to academic activities. The platform is designed to be user-friendly and accessible, making it easy for teachers, students, and parents to stay updated with daily activities and important events.
 
 ---
 
-### Features of Noticebox:
+##### Features of Noticebox:
 
 1. Paperless Communication: Noticebox provides a digital platform for communication that eliminates the need for paper-based communication. It keeps digital records handy like delivery status and read reports.
 Real-time Updates: With Noticebox, users can receive real-time updates on important events, assignments, exam schedules, and other academic activities.
