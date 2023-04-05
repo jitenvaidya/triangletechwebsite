@@ -1,152 +1,52 @@
 ---
-title: "What you need to know about Photography"
-description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
-image: "/images/blog-1.jpg"
-date: 2022-04-04T05:00:00Z
+title: "TechSIS 3.0"
+subtitle: "Simplify Your Student Management"
+description: "Techsis 3.0 is a powerful and innovative Student Information System designed to streamline the management of student-related data"
+image: "/images/blog-4.jpg"
+date: 2022-09-04T05:00:00Z
 draft: false
 ---
 
-##### Heading example
 
-Here is an example of headings. You can use this heading by the following markdown rules. For example: use `#` for heading 1 and use `######` for heading 6.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Techsis 3.0 is a cutting-edge software product designed to streamline the management of student-related data. It is a comprehensive Student Information System (SIS) or Student Management System (SMS) that leverages advanced computerization techniques to manage, store, track, retrieve, and analyze student data with ease. This centralized system provides role-based login access to all stakeholders, ensuring the security of student information. With features such as registration, admission, fee receipt, certificate generation, and financial aid provision, the process of student enrolment is quick, systematic, and free from errors. Techsis 3.0 is an innovative solution that simplifies the management of student data and enhances the overall efficiency of educational institutions.
 
 ---
 
-##### Emphasis
-
-The emphasis, aka italics, with _asterisks_ or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or **underscores**.
-
-The combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
----
-
-##### Link
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
-
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
-
----
-
-##### Paragraph
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus, facilis placeat pariatur! Voluptatem, sed harum pariatur adipisci voluptates voluptatum cumque, porro sint minima similique magni perferendis fuga! Optio vel ipsum excepturi tempore reiciendis id quidem? Vel in, doloribus debitis nesciunt fugit sequi magnam accusantium modi neque quis, vitae velit, pariatur harum autem a! Velit impedit atque maiores animi possimus asperiores natus repellendus excepturi sint architecto eligendi non, omnis nihil. Facilis, doloremque illum. Fugit optio laborum minus debitis natus illo perspiciatis corporis voluptatum rerum laboriosam.
-
----
-
-##### Ordered List
-
-1. List item
-2. List item
-3. List item
-4. List item
-5. List item
-
----
-
-##### Unordered List
-
-- List item
-- List item
-- List item
-- List item
-- List item
-
----
-
-##### Code and Syntax Highlighting
-
-This is an `Inline code` sample.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```python
-s = "Python syntax highlighting"
-print s
-```
-
----
 
 ##### Blockquote
 
 > This is a blockquote example.
 
 ---
+##### 
 
-##### Inline HTML
-
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
+The website [www.theadmission.in](https://theadmission.in/Home/List "Admission Homepage") has been created specifically for TechSIS 3.0. This platform serves as an online admission and fee collection system, which is integrated with various payment gateways, banks, and digital wallets. This provides students and parents the flexibility to pay fees from anywhere at any time.
 
 ---
 
-##### Tables
+##### Features
 
-| Tables        |      Are      |  Cool |
-| ------------- | :-----------: | ----: |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      |   centered    |   $12 |
-| zebra stripes |   are neat    |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| Markdown | Less      | Pretty     |
-| -------- | --------- | ---------- |
-| _Still_  | `renders` | **nicely** |
-| 1        | 2         | 3          |
+1. Storage of complete student profiles, including photos and signatures, with instant access to both student and fee details from the cloud.
+2. It can quickly produce multiple receipts and a bank challan for payment at the bank with just one click.
+3. Automatically creates a general register numbers for new students and provides a powerful search feature for quickly finding student data.
+4. Generate roll numbers that align with your existing system.
+5. Analytics tools for analysis and evaluation, this system is able to generate accurate and valuable reports, which can be exported to Microsoft Excel for additional use.
+6. Utilize various utilities, such as auto-backup, fee structure setup, subject group creation, and other settings for efficient software management.
 
 ---
 
-##### Images
+##### Why TechSIS 3.0?
 
-![service](/images/service-slide-1.png "service")
+- 12+ Years of Software Usage in Different Colleges
+- Online -Offline Model
+- Online Admission and Payment
+- Auto-Generate Id Cards with Barcode / RFID
+- PDF Reports
+- Seamless Communication Thru SMS / noticebox app
+- Reduce Work Load And Improve Efficiency 
+- Excellent Support
+- Software Customization
 
 ---
 
-##### Youtube video
 
-<YoutubePlayer id="C0DPdy98e4c" title="YouTube Video" />
