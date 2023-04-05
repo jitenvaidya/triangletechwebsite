@@ -1,6 +1,6 @@
 ---
 title: "NoticeBox"
-Subtitle: "Empowering education with digital communication."
+subtitle: "Empowering education with digital communication."
 description: "Heading example Here is example of hedings. You can use this heading by following markdownify rules."
 image: "/images/blog-4.jpg"
 date: 2022-08-04T05:00:00Z
