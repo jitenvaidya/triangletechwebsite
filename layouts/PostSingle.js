@@ -5,11 +5,11 @@ import Image from "next/image";
 import Base from "./Baseof";
 
 const PostSingle = ({ frontmatter, content, mdxContent }) => {
-  let { description, title, image } = frontmatter;
+  let { description, title, subtitle, image } = frontmatter;
   description = description ? description : content.slice(0, 120);
 
   return (
-    <Base title={title} description={description}>
+    <Base title={title} subtitle={subtitle}  description={description }>
       <section className="section">
         <div className="container">
           <div className="row">
@@ -26,7 +26,7 @@ const PostSingle = ({ frontmatter, content, mdxContent }) => {
                 />
               )}
               {markdownify(title, "h1", "h2 mb-6 mt-6 text-left")}
-
+              {markdownify(subtitle, "h2", "h2 mb-6 mt-6 text-left")}
               <div className="content mb-16 text-left">
                 <MDXRemote {...mdxContent} components={shortcodes} />
               </div>
