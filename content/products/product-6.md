@@ -50,11 +50,3 @@ The website [www.theadmission.in](https://theadmission.in/Home/List "Admission H
 ---
 
 
-##### Images
-
-![service](/images/service-slide-1.png "service")
-![service](/images/service-slide-1.png "service")
-![service](/images/service-slide-1.png "service")
-
----
-
