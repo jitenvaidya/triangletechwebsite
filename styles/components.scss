@@ -101,7 +101,7 @@
   }
   &-body {
     a {
-      @apply text-primary;
+      @apply text-primary underline;
     }
   }
 }
@@ -109,6 +109,6 @@
 //contact
 .contact-list {
   a {
-    @apply font-semibold text-dark;
+    @apply font-semibold  underline text-dark;
   }
 }
