@@ -12,9 +12,10 @@ Here is an example of headings. You can use this heading by the following markdo
  For example: use `#` for heading 1 and use `######` for heading 6.
 
 
-##### Paragraph
+##### 
 
 Techsis 3.0 is a cutting-edge software product designed to streamline the management of student-related data. It is a comprehensive Student Information System (SIS) or Student Management System (SMS) that leverages advanced computerization techniques to manage, store, track, retrieve, and analyze student data with ease. This centralized system provides role-based login access to all stakeholders, ensuring the security of student information. With features such as registration, admission, fee receipt, certificate generation, and financial aid provision, the process of student enrolment is quick, systematic, and free from errors. Techsis 3.0 is an innovative solution that simplifies the management of student data and enhances the overall efficiency of educational institutions.
+
 ---
 
 ##### Blockquote
@@ -25,6 +26,7 @@ Techsis 3.0 is a cutting-edge software product designed to streamline the manage
 ##### 
 
 The website [www.theadmission.in](https://theadmission.in/Home/List "Admission Homepage") has been created specifically for TechSIS 3.0. This platform serves as an online admission and fee collection system, which is integrated with various payment gateways, banks, and digital wallets. This provides students and parents the flexibility to pay fees from anywhere at any time.
+
 ---
 
 ##### Features
@@ -65,5 +67,6 @@ The website [www.theadmission.in](https://theadmission.in/Home/List "Admission H
 ![service](/images/service-slide-1.png "service")
 ![service](/images/service-slide-1.png "service")
 ![service](/images/service-slide-1.png "service")
+
 ---
 
