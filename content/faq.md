@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions
+title: FAQ - Frequently Asked Questions
 layout: faq
 draft: false
 faqs:
@@ -12,7 +12,7 @@ faqs:
 - title: How long does it take to have custom software designed?
   answer: The approximate time-frame to develop any software depends on its type and complexity.If you have a deadline, we will work hard to meet it. To know the exact time-frame to develop your software, you can consult our experts and we will get back to you with the answers
 - title: What are the system requirements for installing and using your software products?
-  answer: The system requirements for installing and using our software products are different product to product. These requirements typically include operating system compatibility, hardware specifications, basic internet connection to run and any other software dependencies. It's important to review and ensure that your system meets these requirements before installing and using our software products.
+  answer: The system requirements for installing and using our software products are different product to product. These requirements typically include operating system compatibility, hardware specifications, internet connection and any other software dependencies. It's important to review and ensure that your system meets these requirements before installing and using our software products.
 - title: Is there a software training available?
   answer: Yes, we provide software training facilities to our customers from time to time. It includes step-by-step instructions, screenshots, and tutorials to help users get familiar with our software products. The training covers various aspects of the software, including installation, setup, configuration, and usage. Additionally, our customer support team is also available to provide assistance and answer any questions related to the software usage and training.
 - title: Is there a trial version or demo available for your software products?
