@@ -3,21 +3,38 @@ title: Frequently Asked Questions
 layout: faq
 draft: false
 faqs:
-- title: Will updates also be free?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: How can I be confident about product and reliability?
 
-- title: Discounts for students and Non Profit Organizations?
-  answer: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+  answer: We understand that product quality and reliability are important concerns for our customers. We take several measures to ensure that our software products meet the highest standards of quality and reliability - rigorous testing, trusted technologies, regular updates, support and assistance, established track record.
 
-- title: I need something unique, Can you make it?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
 
-- title: Is there any documentation and support?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+- title: Is technical support provided for your software products? If so, how can I access it?
 
-- title: Any refunds?
-  answer: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://www.example.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+  answer: Yes, we provide technical support for our software products. You can access our technical support by sending an email to our support team, or calling our dedicated support hotline. Our technical support team is available during business hours to assist you with any technical issues or questions you may have.
 
-- title: What is a product key?
-  answer: Lorem, [link](https://www.example.com) ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+
+- title: Can I request customization or additional features for your software products? How much does it cost?
+
+  answer: Yes, we offer customization and additional feature requests for our software products. You can discuss your requirements with our sales team or customer support, and we will evaluate the feasibility of customization or adding additional features to our software products based on your needs. The cost for customization or additional features may vary depending on the complexity and scope of the request, and our sales team will provide you with a detailed quote or pricing information based on your specific requirements..
+
+- title: How long does it take to have custom software designed?
+
+  answer: The approximate time-frame to develop any software depends on its type and complexity.If you have a deadline, we will work hard to meet it. To know the exact time-frame to develop your software, you can consult our experts and we will get back to you with the answers
+
+- title: What are the system requirements for installing and using your software products?
+  answer: The system requirements for installing and using our software products are different product to product. These requirements typically include operating system compatibility, hardware specifications, basic internet connection to run and any other software dependencies. It's important to review and ensure that your system meets these requirements before installing and using our software products.
+
+- title: Is there a software training manual available?
+
+  answer: Yes, we provide software training facilities to our customers from time to time. It includes step-by-step instructions, screenshots, and tutorials to help users get familiar with our software products. The training manual covers various aspects of the software, including installation, setup, configuration, and usage. Additionally, our customer support team is also available to provide assistance and answer any questions related to the software usage and training.
+
+  - title: Is there a trial version or demo available for your software products?
+
+  answer: Yes, we offer trial versions or demos for some of our software products. You can visit our website or contact our sales team to inquire about the availability of trial versions or demos. These trial versions or demos typically provide limited functionality or a time-limited evaluation period, allowing you to test and evaluate our software products before making a purchase decision.
+
+
+- title: How do I update or upgrade my software products to the latest version?
+
+  answer: To update or upgrade your software products to the latest version, you can contact our sales team to inquire about the availability of updates or upgrades. We may provide instructions or guidelines on how to update or upgrade our software products, or our technical support team may assist you with the process if needed.
+
 ---
