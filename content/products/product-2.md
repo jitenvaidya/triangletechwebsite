@@ -23,16 +23,11 @@ Cloud Storage: Noticebox uses cloud technology to store and secure data, making 
 4. **Parental Updates:** Noticebox enables parents to stay informed about their child's academic progress by sharing information related to exam schedules, results, fees, and other important information.
 5. **Digital Records:** The platform keeps digital records of all the communication, making it easy for teachers to follow up with students who may have missed important messages or deadlines.
 6. **Sharing Learning Resources:** Teachers can share learning resources, such as documents, assignments, circulars, and notices in the form of PDFs and Images. This helps students in their process of learning.
-
 ---
-
-#####
-
 Overall, Noticebox is an excellent platform for educational institutions to communicate effectively with their students and parents, and to keep them informed about all the important events and activities happening in the school or college.
 
 ---
 ##### Benifits of Noticebox
-
 - **Efficient communication:** Noticebox streamlines communication between educational institutions, teachers, students, and parents, enabling them to share information easily and quickly.
 - **Saves time and effort:** Noticebox eliminates the need for paper-based communication and manual record-keeping, reducing administrative workload and saving time and effort.
 - **Real-time updates:** Noticebox provides real-time updates on important events and activities, ensuring that everyone is informed promptly and accurately.
