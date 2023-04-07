@@ -61,12 +61,12 @@ services:
 workflow: 
   title: "Experience the best workflow with us"
   image: "/images/banner.svg"
-  description: "Some text!!!! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  description: "Unfold a seamless and efficient software workflow experience with us, where you can discover innovative solutions and expertly manage your processes for optimal productivity."
 
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Hit the button down and get ready to kick start your journey with us!
   image: '/images/cta.svg'
   button:
     enable: true
