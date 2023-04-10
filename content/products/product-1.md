@@ -2,7 +2,7 @@
 title: "TechSIS 3.0"
 subtitle: "Simplify Your Student Management"
 description: "Techsis 3.0 is a powerful and innovative Student Information System designed to streamline the management of student-related data"
-image: "/images/blog-4.jpg"
+image: "/images/techsis.jpg"
 date: 2022-09-04T05:00:00Z
 draft: false
 ---

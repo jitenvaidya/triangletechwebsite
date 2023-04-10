@@ -17,13 +17,13 @@ feature:
   features:
  
   - name: "Value for Money"
-    icon: "/images/love.svg"
+    icon: "/images/vfm.svg"
     content: "We provide cost-effective solutions that deliver maximum value to your business, helping you to achieve your goals without breaking the bank."
   - name: "Faster Response"
-    icon: "/images/speedometer.svg"
+    icon: "/images/faster_responce.svg"
     content: "We pride ourselves on our fast response times, ensuring that you get the support and assistance as quickly as possible."
   - name: "Cloud Support"
-    icon: "/images/cloud.svg"
+    icon: "/images/cloud1.svg"
     content: "We offer seamless integration with cloud infrastructure to ensure that your software is scalable, secure, and reliable."
 
 # services
