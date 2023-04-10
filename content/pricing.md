@@ -49,6 +49,6 @@ call_to_action:
   button:
     enable: true
     label: "Contact Us"
-    link: "https://wa.me/912657968656?text=Help to understand our pricing plan."
+    link: "https://wa.me/912657968656?text=Can you please explain the pricing model for your products?"
     
 ---

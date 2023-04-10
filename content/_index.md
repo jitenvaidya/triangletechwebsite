@@ -70,6 +70,6 @@ call_to_action:
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Whatsapp us"
-    link: "https://wa.me/912657968656?text=Send me the link of YouTube demo tutorial videos to learn more."
+    label: "WhatsApp Us"
+    link: "https://wa.me/912657968656?text=I would like to inquire for additional details about your product, Let's talk on whatsApp"
 ---
