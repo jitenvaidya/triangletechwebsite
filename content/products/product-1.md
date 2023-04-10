@@ -42,7 +42,7 @@ The website [www.theadmission.in](https://theadmission.in/Home/List "Admission H
 - Online Admission and Payment
 - Auto-Generate Id Cards with Barcode / RFID
 - PDF Reports
-- Seamless Communication Thru SMS / noticebox app
+- Seamless Communication through SMS / noticebox app
 - Reduce Work Load And Improve Efficiency 
 - Excellent Support
 - Software Customization

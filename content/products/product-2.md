@@ -16,13 +16,13 @@ Noticebox is a digital communication platform that connects teachers, students, 
 ##### Features of Noticebox:
 
 1. **Paperless Communication:** Noticebox provides a digital platform for communication that eliminates the need for paper-based communication. It keeps digital records handy like delivery status and read reports.
-Real-time Updates: With Noticebox, users can receive real-time updates on important events, assignments, exam schedules, and other academic activities.
-2. **Tagging and Categorization:** The tagging feature allows users to categorize messages according to the type of information they contain. This makes it easier for students to access learning resources and assignments.
-Cloud Storage: Noticebox uses cloud technology to store and secure data, making it easier to share resources among a large number of users and centralize resources. It enables forwarding of resources among a large number of users.
-3. **Customizable Notifications:** Users can choose to receive notifications about specific events and activities, such as exam dates, results, and fees.
-4. **Parental Updates:** Noticebox enables parents to stay informed about their child's academic progress by sharing information related to exam schedules, results, fees, and other important information.
-5. **Digital Records:** The platform keeps digital records of all the communication, making it easy for teachers to follow up with students who may have missed important messages or deadlines.
-6. **Sharing Learning Resources:** Teachers can share learning resources, such as documents, assignments, circulars, and notices in the form of PDFs and Images. This helps students in their process of learning.
+2. **Real-time Updates:** With Noticebox, users can receive real-time updates on important events, assignments, exam schedules, and other academic activities.
+3. **Tagging and Categorization:** The tagging feature allows users to categorize messages according to the type of information they contain. This makes it easier for students to access learning resources and assignments.
+4. **Cloud Storage:** Noticebox uses cloud technology to store and secure data, making it easier to share resources among a large number of users and centralize resources. It enables forwarding of resources among a large number of users.
+5. **Customizable Notifications:** Users can choose to receive notifications about specific events and activities, such as exam dates, results, and fees.
+6. **Parental Updates:** Noticebox enables parents to stay informed about their child's academic progress by sharing information related to exam schedules, results, fees, and other important information.
+7. **Digital Records:** The platform keeps digital records of all the communication, making it easy for teachers to follow up with students who may have missed important messages or deadlines.
+8. **Sharing Learning Resources:** Teachers can share learning resources, such as documents, assignments, circulars, and notices in the form of PDFs and Images. This helps students in their process of learning.
 ---
 Overall, Noticebox is an excellent platform for educational institutions to communicate effectively with their students and parents, and to keep them informed about all the important events and activities happening in the school or college.
 
