@@ -48,9 +48,7 @@ services:
 
 
     images: 
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/noticebox-slide1.png"
     button:
       enable: true
       label: Learn more
